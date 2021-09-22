@@ -65,7 +65,7 @@
           <h1>A2-Group-5-Assessment-2</h1>
           <p>A2 Group #5 Assessment 2 for RMIT (COSC2196) Introduction to Information Technology (2177). This is a team assessment with Michael, Daisey, Connor, Callum, Nemat &amp; Brandon. For more information please email me at s3913885@student.rmit.edu.au.</p>
           <hr>
-          <span class="credits left">Project maintained by <a href="https://github.com/ConnorLitchfield">ConnorLitchfield</a></span>
+          <span class="credits left">Project maintained by <a href="https://github.com/ConnorLitchfield">Connor Litchfield</a></span>
           <span class="credits right">Hosted on GitHub Pages — Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
         </div>
 
