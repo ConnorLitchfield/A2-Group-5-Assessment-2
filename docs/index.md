@@ -60,17 +60,6 @@
 
     <div class="wrapper">
 
-      <section>
-        <div id="title">
-          <h1>A2-Group-5-Assessment-2</h1>
-          <p>A2 Group #5 Assessment 2 for RMIT (COSC2196) Introduction to Information Technology (2177). This is a team assessment with Michael, Daisey, Connor, Callum, Nemat &amp; Brandon. For more information please email me at s3913885@student.rmit.edu.au.</p>
-          <hr>
-          <span class="credits left">Project maintained by <a href="https://github.com/ConnorLitchfield">Connor Litchfield</a></span>
-          <span class="credits right">Hosted on GitHub Pages — Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
-        </div>
-
-        <h2 id="welcome-to-github-pages">Welcome to GitHub Pages</h2>
-
 <p>You can use the <a href="https://github.com/ConnorLitchfield/A2-Group-5-Assessment-2/edit/main/docs/index.md">editor on GitHub</a> to maintain and preview the content for your website in Markdown files.</p>
 
 <p>Whenever you commit to this repository, GitHub Pages will run <a href="https://jekyllrb.com/">Jekyll</a> to rebuild the pages in your site, from the content in your Markdown files.</p>
