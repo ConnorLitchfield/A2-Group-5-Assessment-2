@@ -1,37 +1,115 @@
-## Welcome to GitHub Pages
+<html lang="en-US" style=""><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-You can use the [editor on GitHub](https://github.com/ConnorLitchfield/A2-Group-5-Assessment-2/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Welcome to GitHub Pages | A2-Group-5-Assessment-2</title>
+<meta name="generator" content="Jekyll v3.9.0">
+<meta property="og:title" content="Welcome to GitHub Pages">
+<meta property="og:locale" content="en_US">
+<meta name="description" content="A2 Group #5 Assessment 2 for RMIT (COSC2196) Introduction to Information Technology (2177). This is a team assessment with Michael, Daisey, Connor, Callum, Nemat &amp; Brandon. For more information please email me at s3913885@student.rmit.edu.au.">
+<meta property="og:description" content="A2 Group #5 Assessment 2 for RMIT (COSC2196) Introduction to Information Technology (2177). This is a team assessment with Michael, Daisey, Connor, Callum, Nemat &amp; Brandon. For more information please email me at s3913885@student.rmit.edu.au.">
+<link rel="canonical" href="https://connorlitchfield.github.io/A2-Group-5-Assessment-2/">
+<meta property="og:url" content="https://connorlitchfield.github.io/A2-Group-5-Assessment-2/">
+<meta property="og:site_name" content="A2-Group-5-Assessment-2">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="Welcome to GitHub Pages">
+<script type="application/ld+json">
+{"description":"A2 Group #5 Assessment 2 for RMIT (COSC2196) Introduction to Information Technology (2177). This is a team assessment with Michael, Daisey, Connor, Callum, Nemat &amp; Brandon. For more information please email me at s3913885@student.rmit.edu.au.","url":"https://connorlitchfield.github.io/A2-Group-5-Assessment-2/","@type":"WebSite","headline":"Welcome to GitHub Pages","name":"A2-Group-5-Assessment-2","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    <link rel="stylesheet" href="/A2-Group-5-Assessment-2/assets/css/style.css?v=b772dc98e94f0e15a71ca365e7903b16c089ac87">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="/A2-Group-5-Assessment-2/assets/js/respond.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if lt IE 8]>
+    <link rel="stylesheet" href="/A2-Group-5-Assessment-2/assets/css/ie.css">
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
 
-### Markdown
+<!-- Setup theme-color -->
+<!-- start theme color meta headers -->
+<meta name="theme-color" content="#353535">
+<meta name="msapplication-navbutton-color" content="#353535">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<!-- end theme color meta headers -->
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<!-- Setup Google Analytics -->
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/A2-Group-5-Assessment-2/favicon.ico" -->
 
-**Bold** and _Italic_ and `Code` text
+<!-- end custom head snippets -->
 
-[Link](url) and ![Image](src)
-```
+  </head>
+  <body class="vsc-initialized">
+      <div id="header">
+        <nav>
+          <ul>
+            <li class="fork"><a href="https://github.com/ConnorLitchfield/A2-Group-5-Assessment-2">View On GitHub</a></li>
+            
+          </ul>
+        </nav>
+      </div><!-- end header -->
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+    <div class="wrapper">
 
-### Jekyll Themes
+      <section>
+        <div id="title">
+          <h1>A2-Group-5-Assessment-2</h1>
+          <p>A2 Group #5 Assessment 2 for RMIT (COSC2196) Introduction to Information Technology (2177). This is a team assessment with Michael, Daisey, Connor, Callum, Nemat &amp; Brandon. For more information please email me at s3913885@student.rmit.edu.au.</p>
+          <hr>
+          <span class="credits left">Project maintained by <a href="https://github.com/ConnorLitchfield">ConnorLitchfield</a></span>
+          <span class="credits right">Hosted on GitHub Pages — Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
+        </div>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ConnorLitchfield/A2-Group-5-Assessment-2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+        <h2 id="welcome-to-github-pages">Welcome to GitHub Pages</h2>
 
-### Support or Contact
+<p>You can use the <a href="https://github.com/ConnorLitchfield/A2-Group-5-Assessment-2/edit/main/docs/index.md">editor on GitHub</a> to maintain and preview the content for your website in Markdown files.</p>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p>Whenever you commit to this repository, GitHub Pages will run <a href="https://jekyllrb.com/">Jekyll</a> to rebuild the pages in your site, from the content in your Markdown files.</p>
+
+<h3 id="markdown">Markdown</h3>
+
+<p>Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Syntax highlighted code block
+
+<span class="gh"># Header 1</span>
+<span class="gu">## Header 2</span>
+<span class="gu">### Header 3</span>
+<span class="p">
+-</span> Bulleted
+<span class="p">-</span> List
+<span class="p">
+1.</span> Numbered
+<span class="p">2.</span> List
+
+<span class="gs">**Bold**</span> and _Italic_ and <span class="sb">`Code`</span> text
+
+<span class="p">[</span><span class="nv">Link</span><span class="p">](</span><span class="sx">url</span><span class="p">)</span> and !<span class="p">[</span><span class="nv">Image</span><span class="p">](</span><span class="sx">src</span><span class="p">)</span>
+</code></pre></div></div>
+
+<p>For more details see <a href="https://guides.github.com/features/mastering-markdown/">GitHub Flavored Markdown</a>.</p>
+
+<h3 id="jekyll-themes">Jekyll Themes</h3>
+
+<p>Your Pages site will use the layout and styles from the Jekyll theme you have selected in your <a href="https://github.com/ConnorLitchfield/A2-Group-5-Assessment-2/settings/pages">repository settings</a>. The name of this theme is saved in the Jekyll <code class="language-plaintext highlighter-rouge">_config.yml</code> configuration file.</p>
+
+<h3 id="support-or-contact">Support or Contact</h3>
+
+<p>Having trouble with Pages? Check out our <a href="https://docs.github.com/categories/github-pages-basics/">documentation</a> or <a href="https://support.github.com/contact">contact support</a> and we’ll help you sort it out.</p>
+
+
+      </section>
+
+    </div>
+  
+
+</body></html>
