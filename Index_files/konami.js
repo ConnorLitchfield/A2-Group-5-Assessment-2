@@ -38,10 +38,8 @@ document.addEventListener('keydown', function(e) {
 });
 
 function activateCat() {
-  var audio = new Audio('audio/pling.mp3');
-  audio.play();
   alert("Release the CAT!!!!");
-  var audio = new Audio('Index_files/cat.mp3');
+  var audio = new Audio('Index_files/Cat.mp3');
   audio.play();
   document.getElementById('cat').style.visibility="visible";
   setTimeout(function(){document.getElementById('cat').style.visibility="hidden";}, 11000);
