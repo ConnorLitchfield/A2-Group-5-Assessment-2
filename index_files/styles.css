@@ -1,3 +1,26 @@
+body
+{ 
+margin-left: 5%;
+margin-right: 5%;
+background-color:white;
+} 
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
 h1 
 { 
 font-family: Calibri, Candara, Segoe, Optima, Arial, sans-serif; 
@@ -38,3 +61,4 @@ font-style: normal;
 font-variant: normal; 
 font-weight: 400;
 } 
+
