@@ -2,7 +2,7 @@ body
 { 
 margin-left: 5%;
 margin-right: 5%;
-background-color:black;
+background-color:#141414;
 } 
 
 table {
@@ -61,6 +61,8 @@ color: darkblue;
 font-weight: 700; 
 line-height: 25px; 
 color: white;
+margin-left: 1%;
+margin-right: 1%;
 } 
 
 h3
@@ -74,6 +76,8 @@ color: darkblue;
 font-weight: 700; 
 line-height: 25px; 
 color: white;
+margin-left: 1%;
+margin-right: 1%;
 }
 
 p 
